@@ -23,12 +23,5 @@ public class SimonButton extends JButton {
             case 4 -> Color.YELLOW;
             default -> Color.BLACK;
         };
-//        switch (index) {
-//            case 0: return Color.RED;
-//            case 1: return Color.BLUE;
-//            case 2: return Color.GREEN;
-//            case 4: return Color.YELLOW;
-//            default: return Color.BLACK
-//        }
     }
 }
